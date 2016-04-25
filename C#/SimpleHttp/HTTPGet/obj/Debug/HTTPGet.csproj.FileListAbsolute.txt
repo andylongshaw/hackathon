@@ -1,0 +1,6 @@
+C:\Temp\SimpleHttp\HTTPGet\bin\Debug\HTTPGet.exe.config
+C:\Temp\SimpleHttp\HTTPGet\bin\Debug\HTTPGet.exe
+C:\Temp\SimpleHttp\HTTPGet\bin\Debug\HTTPGet.pdb
+C:\Temp\SimpleHttp\HTTPGet\obj\Debug\HTTPGet.csprojResolveAssemblyReference.cache
+C:\Temp\SimpleHttp\HTTPGet\obj\Debug\HTTPGet.exe
+C:\Temp\SimpleHttp\HTTPGet\obj\Debug\HTTPGet.pdb
