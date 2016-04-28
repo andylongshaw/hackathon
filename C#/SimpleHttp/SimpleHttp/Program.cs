@@ -30,7 +30,7 @@ namespace SimpleHttp
 
         static void Main(string[] args)
         {
-            int port = 80;
+            int port = 8080;
             if(args.Length >= 1)
             {
                 port = int.Parse(args[0]);
