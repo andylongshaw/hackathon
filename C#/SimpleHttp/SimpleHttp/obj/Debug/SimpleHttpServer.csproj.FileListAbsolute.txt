@@ -1,8 +1,0 @@
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\SimpleHttp.exe.config
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\SimpleHttp.exe
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\SimpleHttp.pdb
-C:\Temp\SimpleHttp\SimpleHttp\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
-C:\Temp\SimpleHttp\SimpleHttp\obj\Debug\SimpleHttp.exe
-C:\Temp\SimpleHttp\SimpleHttp\obj\Debug\SimpleHttp.pdb
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\Json.dll
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\Json.pdb

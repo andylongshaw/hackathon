@@ -1,1 +1,0 @@
-C:\Temp\SimpleHttp\SimpleHttp\bin\Debug\SimpleHttp.exe.config
