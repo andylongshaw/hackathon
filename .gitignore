@@ -189,6 +189,9 @@ $RECYCLE.BIN/
 # Visual Studio auto-generated file list
 **/*.*.FileListAbsolute.txt
 
+# Visual Studio cache files
+*.cache
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
